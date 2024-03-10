@@ -1,3 +1,4 @@
+![logo](banner.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
