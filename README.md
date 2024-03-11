@@ -5,9 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003harsh&label=Profile%20views&color=0e75b6&style=flat" alt="2003harsh" /> </p>
 <div><img src='/picture.jpg' width='300' alt='Image' align=right /></div>
 
-- 🔭 I’m currently working on **Auto ML**
+- 🔭 I’m currently working on **Auto ML** https://github.com/2003HARSH/AutoML
 
 - 🌱 I’m currently learning **Large Language Models (LLMs)**
+
+- 🤝 I’m looking for help with **Auto ML** https://github.com/2003HARSH/AutoML 
 
 - 👨‍💻 All of my projects are available at [https://resume-harshgupta.streamlit.app/](https://resume-harshgupta.streamlit.app/)
 
