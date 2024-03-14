@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2003harsh&show_icons=true&locale=en&layout=compact" alt="2003harsh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2003harsh&show_icons=true&locale=en" alt="2003harsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2003harsh&" alt="2003harsh" /></p>
