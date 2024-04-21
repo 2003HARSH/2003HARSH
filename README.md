@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Auto ML** https://github.com/2003HARSH/AutoML 
 
-- 👨‍💻 All of my projects are available at [https://resume-harshgupta.streamlit.app/](https://resume-harshgupta.streamlit.app/)
+- 👨‍💻 All of my projects are available at [https://2003harsh.github.io/](https://2003harsh.github.io/)
 
 - 💬 Ask me about **Machine Learning , Deep Learning ,Natural Language Processing (NLP)**
 
 - 📫 How to reach me **harshnkgupta@gmail.com**
 
-- 📄 Know about my experiences [https://resume-harshgupta.streamlit.app/](https://resume-harshgupta.streamlit.app/)
+- 📄 Know about my experiences [https://2003harsh.github.io/](https://2003harsh.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
