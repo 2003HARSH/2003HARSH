@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Auto ML** https://github.com/2003HARSH/AutoML
 
-- 🌱 I’m currently learning **Large Language Models (LLMs)**
+- 🌱 I’m currently learning **Retrieval Augmented Generation (RAG)**
 
 - 🤝 I’m looking for help with **Auto ML** https://github.com/2003HARSH/AutoML 
 
