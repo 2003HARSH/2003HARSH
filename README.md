@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003harsh&label=Profile%20views&color=0e75b6&style=flat" alt="2003harsh" /> </p>
 <div><img src='/picture.jpg' width='300' alt='Image' align=right /></div>
 
-- 🔭 I’m currently working on **Auto ML** https://github.com/2003HARSH/AutoML
+- 🔭 I’m currently working on **tinyGPT** https://github.com/2003HARSH/tinyGPT
 
 - 🌱 I’m currently learning **Retrieval Augmented Generation (RAG)**
 
-- 🤝 I’m looking for help with **Auto ML** https://github.com/2003HARSH/AutoML 
+- 🤝 I’m looking for help with **tinyGPT** https://github.com/2003HARSH/tinyGPT 
 
 - 👨‍💻 All of my projects are available at [https://2003harsh.github.io/](https://2003harsh.github.io/)
 
-- 💬 Ask me about **Machine Learning , Deep Learning ,Natural Language Processing (NLP), Large Language Models & Retrieval Augmented Generation (RAG)**
+- 💬 Ask me about **Machine Learning , Deep Learning ,Natural Language Processing (NLP), Large Language Models (LLMs) & Retrieval Augmented Generation (RAG) and Fine-Tuning**
 
 - 📫 How to reach me **harshnkgupta@gmail.com**
 
