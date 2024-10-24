@@ -6,7 +6,7 @@
 <div><img src='/picture.jpg' width='300' alt='Image' align=right /></div>
 
 
-🔭 I’m currently working on tinyGPT https://github.com/2003HARSH/tinyGPT<br><br>🌱 I’m currently learning MLOps<br><br>🤝 I’m looking for help with tinyGPT https://github.com/2003HARSH/tinyGPT<br><br>👨‍💻 All of my projects are available at https://2003harsh.github.io/<br><br>💬 Ask me about Machine Learning , Deep Learning ,Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Fine-Tuning and MLOps. <br><br>📫 How to reach me harshnkgupta@gmail.com<br><br>📄 Know about my experiences https://portfolio-harsh-gupta.netlify.app/
+🔭 I’m currently working on Transformer-based-Decoder-only-Language-Model [https://github.com/2003HARSH/Transformer-based-Decoder-only-Language-Model](https://github.com/2003HARSH/Transformer-based-Decoder-only-Language-Model)<br><br>🌱 I’m currently learning MLOps<br><br>🤝 I’m looking for help with Transformer-based-Decoder-only-Language-Model [https://github.com/2003HARSH/Transformer-based-Decoder-only-Language-Model](https://github.com/2003HARSH/Transformer-based-Decoder-only-Language-Model)<br><br>👨‍💻 All of my projects are available at https://2003harsh.github.io/<br><br>💬 Ask me about Machine Learning , Deep Learning ,Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Fine-Tuning and MLOps. <br><br>📫 How to reach me harshnkgupta@gmail.com<br><br>📄 Know about my experiences https://portfolio-harsh-gupta.netlify.app/
 
 
 ## 🌐 Socials:
